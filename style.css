@@ -1,0 +1,170 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* header section */
+header {
+    background-image: url("images/header-bg.png");
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%
+}
+
+.portion {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+
+}
+
+.header-right img {
+
+    width: 100%;
+
+}
+
+.header-right {
+    height: 540px;
+
+}
+
+.jack-smith {
+    color: #fa8072dd;
+    font-weight: bold;
+}
+
+.hire-btn {
+    background-color: #fa8072dd;
+    color: white;
+    font-weight: 16px;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, #fa8072b4, #c13e5494);
+
+}
+
+.header-left p {
+    margin-bottom: 50px;
+}
+
+
+/* Biography Start */
+
+.biography {
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    height: 700px;
+    background-position: left;
+    padding-top: 70px;
+}
+
+.bio {
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.peter-dream {
+    width: 100%;
+    height: 100%;
+}
+
+.bio-right {
+    padding-top: 80px;
+}
+
+.bio-right p {
+    padding-bottom: 30px;
+}
+
+
+.cv {
+    background-color: #fa8072dd;
+    color: white;
+    font-weight: 16px;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, #fa8072b4, #c13e5494);
+
+}
+
+/* Latest Work */
+
+.latest-work {
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    height: 700px;
+    background-position: right;
+    padding-top: 70px;
+}
+
+.pic {
+    width: 24%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%
+}
+
+.pic img {
+    width: 100%;
+}
+
+.latest-work h1 {
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 40px;
+
+}
+
+
+/* Footer  */
+
+.footer-top p,
+h1,
+h2,
+h3,
+h4,
+h6 {
+    text-align: center;
+}
+
+.wrap {
+    max-width: 400px;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.footer-bottom p,
+h3 {
+    text-align: center;
+}
+
+.footer-bottom {
+    background-color: #fa8072dd;
+    color: white;
+    max-width: 500px;
+
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, #fa8072b4, #c13e5494);
+    margin: auto;
+
+}
+
+footer {
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    height: 400px;
+    background-position: center;
+    padding-top: 70px;
+
+}
